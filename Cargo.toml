@@ -1,0 +1,15 @@
+[package]
+name = "vpktc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = { version = "0.12.12", features = ["blocking", "multipart"] }
+tracing = "0.1.41"
+tracing-subscriber = "0.3.19"
+chrono = "0.4.39"
+
+[build]
+target = "x86_64-pc-windows-gnu"
+
+# cargo build --target x86_64-pc-windows-gnu

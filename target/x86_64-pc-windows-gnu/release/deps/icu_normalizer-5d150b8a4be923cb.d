@@ -1,0 +1,11 @@
+/home/fliqqr/vpktc/target/x86_64-pc-windows-gnu/release/deps/libicu_normalizer-5d150b8a4be923cb.rmeta: /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/lib.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/error.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/properties.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/provider.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/uts46.rs
+
+/home/fliqqr/vpktc/target/x86_64-pc-windows-gnu/release/deps/libicu_normalizer-5d150b8a4be923cb.rlib: /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/lib.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/error.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/properties.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/provider.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/uts46.rs
+
+/home/fliqqr/vpktc/target/x86_64-pc-windows-gnu/release/deps/icu_normalizer-5d150b8a4be923cb.d: /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/lib.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/error.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/properties.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/provider.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/uts46.rs
+
+/home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/lib.rs:
+/home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/error.rs:
+/home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/properties.rs:
+/home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/provider.rs:
+/home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer-1.5.0/src/uts46.rs:

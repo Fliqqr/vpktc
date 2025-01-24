@@ -1,0 +1,11 @@
+/home/fliqqr/vpktc/target/x86_64-pc-windows-gnu/release/deps/liblitemap-52b9086b797bc2ef.rmeta: /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/lib.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/map.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/store/mod.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/store/slice_impl.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/store/vec_impl.rs
+
+/home/fliqqr/vpktc/target/x86_64-pc-windows-gnu/release/deps/liblitemap-52b9086b797bc2ef.rlib: /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/lib.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/map.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/store/mod.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/store/slice_impl.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/store/vec_impl.rs
+
+/home/fliqqr/vpktc/target/x86_64-pc-windows-gnu/release/deps/litemap-52b9086b797bc2ef.d: /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/lib.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/map.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/store/mod.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/store/slice_impl.rs /home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/store/vec_impl.rs
+
+/home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/lib.rs:
+/home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/map.rs:
+/home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/store/mod.rs:
+/home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/store/slice_impl.rs:
+/home/fliqqr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.4/src/store/vec_impl.rs:

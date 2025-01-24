@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/fliqqr/vpktc/target/x86_64-pc-windows-gnu/release/build/mime_guess-c7ce1c0b776256b0/out/mime_types_generated.rs
